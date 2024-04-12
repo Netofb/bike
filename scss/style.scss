@@ -1,9 +1,17 @@
-@import 'normalize';
-@import 'reset';
-@import 'grid';
-@import 'geral';
-@import 'sobre';
-@import 'produtos';
-@import 'portfolio';
-@import 'contato';
-@import 'responsivo';
+
+
+@import '_variaveis-e-mixins';
+//gerais
+@import '_normalize';
+@import '_reset';
+@import '_grid';
+@import '_geral';
+
+// Páginas
+@import '_sobre';
+@import '_produtos';
+@import '_portfolio';
+@import '_contato';
+
+//responsivo
+@import '_responsivo';

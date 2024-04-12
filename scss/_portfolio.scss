@@ -37,7 +37,7 @@
 }
 
 .rslides li, .rslides_portfolio li{
-	-webkit-backface-visibility: hidden;
+	
 	position: absolute;
 	display: none;
 	width: 100%;
@@ -80,6 +80,6 @@
 }
 
 .rslides_tabs li a:hover, .rslides_tabs li.rslides_here a {
-	background: #fec63e;
-	color: #fec63e;
+	background: $cor-primaria;
+	color: $cor-primaria;
 }
