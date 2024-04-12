@@ -1,11 +1,21 @@
-
+// Cores
 $cor-primaria: #fec63e;
 $black: #000;
 $white: #FFF;
 
+// Tipografia
 
-
-
+@mixin tipo-1($tamanho){
+    @if $tamanho == 14{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    @else if $tamanho == 18{
+        font-size: 18px;
+        line-height: 25px;
+    }
+    
+}
 
 
 
