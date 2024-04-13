@@ -588,10 +588,11 @@ img {
 }
 
 #form-erro span, #form-send span {
-  font-size: 18px;
-  line-height: 25px;
   margin-bottom: 10px;
   display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 #form-send {
@@ -606,12 +607,14 @@ img {
   border: 3px solid #fec63e;
   padding: 10px 30px;
   color: #fec63e;
-  font-size: 14px;
   line-height: 20px;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 0.1em;
   transition: all 0.5s ease;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .btn:hover {
@@ -625,7 +628,6 @@ img {
 }
 
 .subtitulo {
-  font-size: 24px;
   line-height: 30px;
   font-weight: bold;
   letter-spacing: 0.1em;
@@ -633,6 +635,9 @@ img {
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 40px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 24px;
+  line-height: 30px;
 }
 
 .subtitulo:after {
@@ -645,13 +650,15 @@ img {
 }
 
 .subtitulo-interno {
-  font-size: 24px;
   line-height: 30px;
   font-weight: bold;
   letter-spacing: 0.1em;
   color: #000;
   text-transform: uppercase;
   margin-bottom: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 24px;
+  line-height: 30px;
 }
 
 .subtitulo-interno:after {
@@ -688,10 +695,11 @@ img {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-size: 14px;
-  line-height: 20px;
   padding: 10px 0;
   transition: all 0.3s ease;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .header_menu ul li a:hover {
@@ -714,10 +722,11 @@ img {
 }
 
 .introducao h1 {
-  font-size: 48px;
   color: #FFF;
   font-weight: bold;
   text-transform: uppercase;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 48px;
 }
 
 .quote-externo {
@@ -743,8 +752,10 @@ img {
 .quote-externo cite {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
   letter-spacing: 0.1em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 /*Introducao Interna*/
@@ -758,9 +769,10 @@ img {
 }
 
 .introducao-interna h1 {
-  font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 36px;
 }
 
 .introducao-interna h1:after {
@@ -788,11 +800,12 @@ img {
 
 .produtos_lista li h3 {
   font-weight: bold;
-  font-size: 18px;
-  line-height: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-top: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .produtos_lista li h3:after {
@@ -879,11 +892,12 @@ img {
 
 .qualidade_lista li h3 {
   font-weight: bold;
-  font-size: 18px;
-  line-height: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-top: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .qualidade_lista li h3:after {
@@ -918,12 +932,13 @@ img {
 }
 
 .footer h3 {
-  font-size: 18px;
-  line-height: 25px;
   color: #fec63e;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: bold;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .footer h3:after {
@@ -940,9 +955,9 @@ img {
 }
 
 .footer_contato ul li {
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 14px;
   line-height: 20px;
-  font-family: Georgia, "Times New Roman", serif;
 }
 
 .footer_redes ul li {
@@ -1000,16 +1015,18 @@ img {
 }
 
 .missao_sobre p {
-  font-size: 18px;
-  line-height: 25px;
   margin-bottom: 1em;
   padding-right: 60px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .missao_sobre ul li {
+  line-height: 30px;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .foto-equipe {
@@ -1027,7 +1044,6 @@ img {
 
 .produto_item h2 {
   color: #FFF;
-  font-size: 36px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: bold;
@@ -1035,6 +1051,8 @@ img {
   top: -180px;
   text-align: center;
   margin-bottom: -56px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 36px;
 }
 
 .produto_item h2:after, .produto_item h2:before {
@@ -1061,23 +1079,26 @@ img {
 
 .produto_info p {
   color: #FFF;
-  font-size: 18px;
   line-height: 25px;
   height: 180px;
   padding: 30px 40px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .produto_info ul li {
   background: #fec63e;
   text-transform: uppercase;
-  font-size: 18px;
-  line-height: 20px;
   font-weight: bold;
   float: left;
   width: 229px;
   height: 49px;
   text-align: center;
   padding-top: 16px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .produto_info ul li:nth-child(1), .produto_info ul li:nth-child(2) {
@@ -1112,9 +1133,10 @@ img {
   display: block;
   color: #FFF;
   font-family: Georgia, "Times New Roman", serif;
+  margin-bottom: 4px;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
   line-height: 25px;
-  margin-bottom: 4px;
 }
 
 .form input {
@@ -1126,8 +1148,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 10px;
   outline: none;
-  font-size: 14px;
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .form textarea {
@@ -1140,8 +1163,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 20px;
   outline: none;
-  font-size: 14px;
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .form button {
@@ -1154,18 +1178,20 @@ img {
 }
 
 .orcamento_dados h3 {
-  font-size: 18px;
-  line-height: 25px;
   text-transform: uppercase;
   color: #fec63e;
   font-weight: bold;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .orcamento_dados span {
   display: block;
-  font-size: 18px;
   line-height: 30px;
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .orcamento_dados span:nth-of-type(2) {
@@ -1177,9 +1203,10 @@ img {
 }
 
 .orcamento_dados ul li {
+  padding: 10px 15px;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 14px;
-  padding: 10px 15px;
+  line-height: 20px;
 }
 
 .orcamento_dados ul li:nth-child(odd) {
@@ -1203,18 +1230,20 @@ img {
 
 .quote_clientes p {
   text-align: center;
+  font-style: italic;
+  margin-bottom: 20px;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
   line-height: 25px;
-  font-style: italic;
-  margin-bottom: 20px;
 }
 
 .quote_clientes cite {
-  font-size: 18px;
   font-weight: bold;
   float: right;
   font-style: normal;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 /*Plugin de Slide*/
@@ -1290,10 +1319,10 @@ img {
 
 .contato_form label {
   display: block;
+  margin-bottom: 4px;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
   line-height: 25px;
-  margin-bottom: 4px;
 }
 
 .contato_form input {
@@ -1304,8 +1333,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 10px;
   outline: none;
-  font-size: 14px;
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .contato_form textarea {
@@ -1317,8 +1347,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 20px;
   outline: none;
-  font-size: 14px;
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .contato_form button {
@@ -1331,18 +1362,20 @@ img {
 }
 
 .contato_dados h3 {
-  font-size: 18px;
-  line-height: 25px;
   text-transform: uppercase;
   color: #fec63e;
   font-weight: bold;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .contato_dados span {
   display: block;
-  font-size: 18px;
-  line-height: 30px;
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
+  line-height: 30px;
 }
 
 .contato_dados span:nth-of-type(even) {
@@ -1400,10 +1433,11 @@ img {
     padding: 41px 0;
   }
   .produto_info p {
-    font-size: 14px;
-    line-height: 20px;
     height: 122px;
     padding: 20px 30px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 14px;
+    line-height: 20px;
   }
   .produto_info ul li {
     width: 181px;
@@ -1440,6 +1474,7 @@ img {
   }
   /*Introducao*/
   .introducao h1 {
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 36px;
   }
   .introducao {
@@ -1462,13 +1497,15 @@ img {
   }
   /*Sobre*/
   .missao_sobre p {
+    padding-right: 0px;
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 14px;
     line-height: 20px;
-    padding-right: 0px;
   }
   .missao_sobre ul li {
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 14px;
-    line-height: 25px;
+    line-height: 20px;
   }
   /*Produtos*/
   .produto_item h2 {
@@ -1479,17 +1516,19 @@ img {
     padding: 41px 0;
   }
   .produto_info p {
-    font-size: 14px;
-    line-height: 20px;
     height: auto;
     padding: 20px 30px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 14px;
+    line-height: 20px;
   }
   .produto_info ul li {
     width: 149px;
     height: 49px;
+    padding-top: 14px;
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 14px;
     line-height: 20px;
-    padding-top: 14px;
   }
   .form {
     padding-right: 0px;
